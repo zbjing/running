@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://zbjing.github.io/running_page/sitemap/sitemap-index.xml
+Sitemap: https://zbjing.github.io/running/sitemap/sitemap-index.xml
 Host: https://zbjing.github.io
